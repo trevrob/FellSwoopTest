@@ -1,0 +1,16 @@
+body{
+	background: url(../images/symphony.png) repeat center;
+}
+.container{
+	min-height: 100%;
+}
+.row{
+	text-align: center;
+}
+h1{
+	color: black;
+	font-weight: 600;
+}
+h1 img{
+	margin-bottom:10px;
+}
